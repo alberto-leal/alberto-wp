@@ -1,0 +1,48 @@
+.elementor-1111 .elementor-element.elementor-element-b860b60:not(.elementor-motion-effects-element-type-background), .elementor-1111 .elementor-element.elementor-element-b860b60 > .elementor-motion-effects-container > .elementor-motion-effects-layer {background-color: #1b1f29;background-image: url("https://github.com/alberto-leal/alberto-wp.git/wp-content/uploads/2021/06/pexels-bich-tran-669996.jpg");background-position: center center;background-repeat: no-repeat;background-size: cover;}
+.elementor-1111 .elementor-element.elementor-element-b860b60 > .elementor-background-overlay {background-color: #1b1f29;opacity: .8;transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-1111 .elementor-element.elementor-element-b860b60 {transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 264px 40px 24px 40px;}
+.elementor-1111 .elementor-element.elementor-element-0a66a23 {text-align: center;}
+.elementor-1111 .elementor-element.elementor-element-0a66a23 .elementor-heading-title {color: #f44a25;}
+.elementor-1111 .elementor-element.elementor-element-0a66a23 > .elementor-widget-container {padding: 0px 0px 12px 0px;}
+.elementor-1111 .elementor-element.elementor-element-55c9b31 {text-align: center;}
+.elementor-1111 .elementor-element.elementor-element-55c9b31 .elementor-heading-title {color: #fff;font-size: 60px;letter-spacing: -2px;text-shadow: 0px 0px 10px rgba(0,0,0,.3);}
+.elementor-1111 .elementor-element.elementor-element-3d91290 {text-align: center;}
+.elementor-1111 .elementor-element.elementor-element-3d91290 .elementor-heading-title {color: #fff;letter-spacing: -2px;text-shadow: 0px 0px 10px rgba(0,0,0,.3);}
+.elementor-1111 .elementor-element.elementor-element-3d91290 > .elementor-widget-container {padding: 0px 120px 0px 120px;}
+.elementor-1111 .elementor-element.elementor-element-a283573 {text-align: center;}
+.elementor-1111 .elementor-element.elementor-element-a283573 .elementor-heading-title {color: #fff;text-transform: uppercase;letter-spacing: 2px;}
+.elementor-1111 .elementor-element.elementor-element-a283573 > .elementor-widget-container {padding: 160px 0px 0px 0px;}
+.elementor-1111 .elementor-element.elementor-element-93930c9 {padding: 0px 144px 0px 144px;}
+.elementor-1111 .elementor-element.elementor-element-0352d86 img {width: 50%;opacity: .5;}
+.elementor-1111 .elementor-element.elementor-element-0413295 img {width: 50%;opacity: .5;}
+.elementor-1111 .elementor-element.elementor-element-415b888 img {width: 50%;opacity: .5;}
+.elementor-1111 .elementor-element.elementor-element-a01ba79 img {width: 50%;opacity: .5;}
+.elementor-1111 .elementor-element.elementor-element-3110da7 img {width: 50%;opacity: .5;}
+.elementor-1111 .elementor-element.elementor-element-bcd4491 {padding: 128px 40px 128px 40px;}
+.elementor-1111 .elementor-element.elementor-element-7dea028 > .elementor-element-populated {padding: 0px 24px 0px 24px;}
+.elementor-1111 .elementor-element.elementor-element-74ca556 {text-align: center;}
+.elementor-1111 .elementor-element.elementor-element-74ca556 .elementor-heading-title {color: #9097aa;}
+@media (max-width:1024px) {.elementor-1111 .elementor-element.elementor-element-b860b60 {padding: 120px 40px 24px 40px;}
+	.elementor-1111 .elementor-element.elementor-element-55c9b31 {text-align: center;}
+	.elementor-1111 .elementor-element.elementor-element-55c9b31 .elementor-heading-title {font-size: 47px;}
+	.elementor-1111 .elementor-element.elementor-element-3d91290 .elementor-heading-title {letter-spacing: -1px;}
+	.elementor-1111 .elementor-element.elementor-element-3d91290 > .elementor-widget-container {padding: 0px 40px 0px 40px;}
+	.elementor-1111 .elementor-element.elementor-element-a283573 > .elementor-widget-container {padding: 64px 0px 0px 0px;}
+	.elementor-1111 .elementor-element.elementor-element-93930c9 {padding: 0px 40px 0px 40px;}
+	.elementor-1111 .elementor-element.elementor-element-bcd4491 {padding: 80px 64px 80px 64px;}}
+@media (max-width:767px) {.elementor-1111 .elementor-element.elementor-element-b860b60 {padding: 112px 24px 24px 24px;}
+	.elementor-1111 .elementor-element.elementor-element-0a66a23 > .elementor-widget-container {padding: 0px 0px 0px 0px;}
+	.elementor-1111 .elementor-element.elementor-element-55c9b31 {text-align: center;}
+	.elementor-1111 .elementor-element.elementor-element-55c9b31 .elementor-heading-title {font-size: 29px;letter-spacing: -1px;}
+	.elementor-1111 .elementor-element.elementor-element-3d91290 {text-align: center;}
+	.elementor-1111 .elementor-element.elementor-element-3d91290 .elementor-heading-title {font-size: 28px;letter-spacing: -1px;}
+	.elementor-1111 .elementor-element.elementor-element-3d91290 > .elementor-widget-container {padding: 0px 0px 0px 0px;}
+	.elementor-1111 .elementor-element.elementor-element-93930c9 {padding: 0px 0px 0px 0px;}
+	.elementor-1111 .elementor-element.elementor-element-cfe9997 {width: 33.33%;}
+	.elementor-1111 .elementor-element.elementor-element-39e2e8f {width: 33.33%;}
+	.elementor-1111 .elementor-element.elementor-element-589abe6 {width: 33.33%;}
+	.elementor-1111 .elementor-element.elementor-element-1d2ed54 {width: 50%;}
+	.elementor-1111 .elementor-element.elementor-element-1d2ed54 > .elementor-element-populated {padding: 0% 0% 0% 25%;}
+	.elementor-1111 .elementor-element.elementor-element-7021485 {width: 50%;}
+	.elementor-1111 .elementor-element.elementor-element-7021485 > .elementor-element-populated {padding: 0% 25% 0% 0%;}
+	.elementor-1111 .elementor-element.elementor-element-bcd4491 {padding: 64px 24px 64px 24px;}}
